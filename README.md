@@ -17,7 +17,7 @@ import java.util.Arrays;
  * @author 听风
  * @since EveryDay
  */
-public class Live {
+public class Life {
   private static final String[] languages =
       new String[] {
         "Java", "C++", "JavaScript", "HTML5", "Python", "flask", "SQL", "Android", "react"
@@ -26,7 +26,7 @@ public class Live {
   private static final String[] tech =
       new String[] {"open source", "APIs/SDKs", "clouds", "databases"};
 
-  public Live() {
+  public Life() {
     this.has();
     this.learnIn();
     this.learnAbout();
