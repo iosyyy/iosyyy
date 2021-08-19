@@ -33,15 +33,15 @@ public class Life {
   }
 
   private void learnAbout() {
-    Arrays.stream(Live.tech).forEach(System.out::println);
+    Arrays.stream(Life.tech).forEach(System.out::println);
   }
 
   private void learnIn() {
-    System.out.println(Live.education);
+    System.out.println(Life.education);
   }
 
   private void has() {
-    Arrays.stream(Live.languages).forEach(System.out::println);
+    Arrays.stream(Life.languages).forEach(System.out::println);
   }
 }
 ```
