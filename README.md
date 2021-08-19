@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Android
 - 🤔 I’m looking for help with All knowledge of the front-end and back-end
 - 💬 Ask me about How are you?
-- 📫 How to reach me: emmm,noting
+- 📫 How to reach me: emmm,nothing
 - ⚡ Fun fact: This is a private account
