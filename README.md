@@ -1,47 +1,64 @@
-## Hello🤣
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on myself
-- 🌱 I’m currently learning Android
-- 🤔 I’m looking for help with All knowledge of the front-end and back-end
-- 💬 Ask me about How are you?
-- 📫 How to reach me: emmm,nothing
-- ⚡ Fun fact: This is a private account
-
-
+## Prepared by JHX,Welcome to my world
+ 
 ```java
+import lombok.Builder;
+import lombok.Data;
+
 import java.util.Arrays;
+import java.util.Calendar;
 
 /**
- * @author 听风
- * @since EveryDay
+ * @author jhx
+ * @since Good morning,and in case I don't see you,good afternoon,good evening and good night.
  */
+@Builder
+@Data
 public class Life {
-  private static final String[] languages =
-      new String[] {
-        "Java", "C++", "JavaScript", "HTML5", "Python", "flask", "SQL", "Android", "react"
-      };
-  private static final String education = "小地方的不知名大学";
-  private static final String[] tech =
-      new String[] {"open source", "APIs/SDKs", "clouds", "databases"};
+  private String[] languages;
 
-  public Life() {
-    this.has();
-    this.learnIn();
-    this.learnAbout();
-  }
+  private String education;
 
-  private void learnAbout() {
-    Arrays.stream(Life.tech).forEach(System.out::println);
-  }
+  private String[] tech;
 
-  private void learnIn() {
-    System.out.println(Life.education);
-  }
+  private Calendar birthday;
 
-  private void has() {
-    Arrays.stream(Life.languages).forEach(System.out::println);
+  private String birthplace;
+
+  public static void main(String[] args) {
+    Calendar birthday = Calendar.getInstance();
+    birthday.set(2001, Calendar.JULY, 17);
+    Life life =
+        Life.builder()
+            .birthday(birthday)
+            .birthplace("china")
+            .languages(
+                new String[] {
+                  "Java",
+                  "C++",
+                  "JavaScript",
+                  "HTML5",
+                  "Python",
+                  "flask",
+                  "SQL",
+                  "Android",
+                  "react",
+                  "vue",
+                  "go"
+                })
+            .education("somewhere")
+            .tech(
+                new String[] {
+                  "open source", "APIs/SDKs", "clouds", "databases", "spring boot", "spring cloud"
+                })
+            .build();
+    System.out.print("Form " + life.getBirthplace() + "in " + life.getBirthday() + ".");
+    System.out.print("I study in " + life.getEducation() + " Institute of technology.");
+    System.out.print(
+        "And I am familiar with the following languages"
+            + Arrays.toString(life.getLanguages())
+            + "has the following technologies"
+            + Arrays.toString(life.getTech()));
   }
 }
+
 ```
