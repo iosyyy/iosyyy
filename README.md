@@ -1,6 +1,6 @@
 ## Prepared by JHX 📝
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iosyyy)](https://github.com/anuraghazra/github-readme-stats)
-![SlightDust's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iosyyy&layout=compact&hide_border=true&langs_count=10)
+[![iosyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=iosyyy)](https://github.com/anuraghazra/github-readme-stats)
+[![iosyyy's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iosyyy&layout=compact&hide_border=true&langs_count=10)
 
 ```java
 import lombok.Builder;
