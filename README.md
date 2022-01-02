@@ -1,6 +1,13 @@
 ## Prepared by JHX 📝
-[![iosyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=iosyyy&show_icons=true&count_private=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-![iosyyy's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iosyyy&show_icons=true&hide_border=true&langs_count=15&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iosyyy&show_icons=true&count_private=true&count_private=true&hide_border=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iosyyy&show_icons=true&hide_border=true&langs_count=15&layout=compact" />
+</a>
+
 
 ```java
 import lombok.Builder;
