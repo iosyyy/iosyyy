@@ -61,7 +61,7 @@ public class Life {
             .education("🏫")
             .tech(
                 new String[] {
-                  "open source", "APIs/SDKs", "clouds", "databases", "spring boot", "spring cloud"
+                  "open source", "APIs/SDKs", "clouds", "databases", "🍃 boot", "🍃 cloud"
                 })
             .build();
     System.out.println("Form " + life.getBirthplace() + "in " + life.getBirthday() + ".");
