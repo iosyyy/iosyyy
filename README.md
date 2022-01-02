@@ -1,6 +1,6 @@
 ## Prepared by JHX 📝
-[![iosyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=iosyyy&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-![iosyyy's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iosyyy&layout=compact&hide_border=true&langs_count=15&theme=dark)
+[![iosyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=iosyyy&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![iosyyy's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iosyyy&show_icons=true&layout=compact&hide_border=true&langs_count=15)
 
 ```java
 import lombok.Builder;
@@ -11,7 +11,7 @@ import java.util.Calendar;
 
 /**
  * @author jhx
- * @since 🌑🌒🌓🌔🌕🌖🌗🌘🌙🌚🌛🌜🌝
+ * @since 🌑🌒🌓🌔🌕🌖🌗🌘🌚🌝
  */
 @Builder
 @Data
