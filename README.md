@@ -1,14 +1,14 @@
 ##  <img src="https://github.com/iosyyy/iosyyy/blob/main/%E5%A4%B4%E5%83%8F(3).gif" alt="image-20220102113009363" width="25" />  Prepared by JHX  📝
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=iosyyy&show_icons=true&count_private=true&count_private=true&hide_border=true&theme=onedark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=iosyyy&show_icons=true&count_private=true&count_private=true&hide_border=true&theme=tokyonight" />
   </a>
 </div>
 <br />
 
 <div>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iosyyy&show_icons=true&hide_border=true&langs_count=15&layout=compact&theme=onedark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iosyyy&show_icons=true&hide_border=true&langs_count=15&layout=compact&theme=tokyonight" />
   </a>
 </div>
 <br />
