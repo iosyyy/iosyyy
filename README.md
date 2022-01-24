@@ -8,8 +8,8 @@
 <!-- Docs badge not working ... if you have time to help investigate, please do.
 [![Inline docs](http://inch-ci.org/github/dwyl/hits.svg?style=flat-square)](http://inch-ci.org/github/dwyl/hits)
 -->
-
 </div>
+
 ##  <img src="https://github.com/iosyyy/iosyyy/blob/main/%E5%A4%B4%E5%83%8F(3).gif" alt="image-20220102113009363" width="25" />  Prepared by JHX  📝
 ####  ☕ my common language
 <div>
@@ -33,7 +33,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
 <br />
-<br />
+
+---
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats" >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=iosyyy&show_icons=true&count_private=true&count_private=true" />
