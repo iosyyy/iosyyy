@@ -3,7 +3,7 @@
 <div align="center">
 
 [![HitCount](http://hits.dwyl.com/iosyyy/iosyyy.svg)](https://github.com/iosyyy/iosyyy)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/dwyl/hits/issues/74)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/iosyyy/iosyyy/blob/main/WELCOME.md)
 
 <!-- Docs badge not working ... if you have time to help investigate, please do.
 [![Inline docs](http://inch-ci.org/github/dwyl/hits.svg?style=flat-square)](http://inch-ci.org/github/dwyl/hits)
