@@ -46,6 +46,9 @@
   </a>
 </span>
 <br />
+
+![hello-image](.//hello_world.jfif)
+
 <details>
   <summary>
    <b>Click here to open my life's code</b>
@@ -116,6 +119,3 @@ public class Life {
 
 </pre>
 </details>
-
-![hello-image](.//hello_world.jfif)
-
