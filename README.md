@@ -35,18 +35,23 @@
 <br />
 
 ---
-<div>
+<span>
   <a href="https://github.com/anuraghazra/github-readme-stats" >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=iosyyy&show_icons=true&count_private=true&count_private=true" />
   </a>
-</div>
-<div>
+</span>
+<span>
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iosyyy&show_icons=true&hide_border=true&langs_count=15&layout=compact" />
   </a>
-</div>
+</span>
 <br />
-
+<details>
+  <summary>
+   <b>Click here to open my life's code</b>
+ </summary>
+<pre>
+ 
 ```java
 import lombok.Builder;
 import lombok.Data;
@@ -107,5 +112,10 @@ public class Life {
             + Arrays.toString(life.getTech()));
   }
 }
-
 ```
+
+</pre>
+</details>
+
+![hello-image](.//hello_world.jfif)
+
