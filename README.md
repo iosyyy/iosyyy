@@ -3,7 +3,10 @@
 
 
 <h1 align="center">Hi <img src="https://github.com/iosyyy/iosyyy/blob/main/%E5%A4%B4%E5%83%8F(3).gif" alt="image-20220102113009363" width="30" />, I'm JHX</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from china.</h3>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%23F75C7E&size=22&center=true&vCenter=true&width=650&height=45&lines=I'm+a+passionate+Full+Stack+Developer+from+china;4%2B+years+of+coding+experience;Always+love+programming+and+new+things;Currently+a+student"></a>
+</p>
 
 <div align="center">
 
