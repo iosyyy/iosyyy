@@ -14,7 +14,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=iosyyy">
 </a>
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/iosyyy/iosyyy/blob/main/WELCOME.md)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/iosyyy/iosyyy/blob/main/WELCOME.md#welcome)
 <a href="https://github.com/iosyyy?tab=followers"><img src="https://img.shields.io/github/followers/iosyyy?label=Followers&style=social" alt="GitHub Badge"></a>
 <!-- Docs badge not working ... if you have time to help investigate, please do.
 [![Inline docs](http://inch-ci.org/github/dwyl/hits.svg?style=flat-square)](http://inch-ci.org/github/dwyl/hits)
