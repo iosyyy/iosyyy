@@ -7,6 +7,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%23F75C7E&size=22&center=true&vCenter=true&width=650&height=45&lines=I'm+a+passionate+Full+Stack+Developer+from+china;4%2B+years+of+coding+experience;Always+love+programming+and+new+things;Currently+a+student"></a>
 </p>
+  ![Snake animation](https://github.com/iosyyy/iosyyy/blob/output/github-contribution-grid-snake.svg)
+
 
 <div align="center">
 
